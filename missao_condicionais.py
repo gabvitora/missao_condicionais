@@ -1,0 +1,1 @@
+#1. você está sendo avaliado(a) em sua habilidade de tomar decisões automatizadas por meio de códigos. Em cada uma das atividades a seguir, use estruturas condicionais com sabedoria.
